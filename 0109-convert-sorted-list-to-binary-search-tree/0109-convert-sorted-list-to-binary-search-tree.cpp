@@ -21,36 +21,26 @@
  */
 class Solution {
 public:
-    TreeNode* bst(vector<int>& ans, int i, int j) {
-        
-        if (i > j) {
-            return NULL;
+    TreeNode* sortedListToBST(ListNode* head) {
+        if(head==NULL){
+            return nullptr;
         }
-
-        
-        int mid = i + (j - i) / 2;
-
-        TreeNode* root = new TreeNode(ans[mid]);
-
-        
-        root->left = bst(ans, i, mid - 1);
-        root->right = bst(ans, mid + 1, j);
+        if(head->next==NULL){
+            return new TreeNode(head->val);
+        }
+        ListNode* p = NULL;
+        ListNode* slow = head;
+        ListNode* last = head;
+        while(last && last->next){
+            p = slow;
+            slow = slow->next;
+            last = last->next->next;
+        }
+        p->next=nullptr;
+        TreeNode*root = new TreeNode(slow->val);
+        root->left = sortedListToBST(head);
+        root->right = sortedListToBST(slow->next);
 
         return root;
-    }
-
-    TreeNode* sortedListToBST(ListNode* head) {
-        vector<int> ans;
-        // Convert the sorted linked list to a sorted vector
-        while (head != NULL) {
-            ans.push_back(head->val);
-            head = head->next;
-        }
-
-        // Get the size of the vector
-        int n = ans.size();
-
-        // Call the helper function to build the BST from the sorted vector
-        return bst(ans, 0, n - 1);
     }
 };
