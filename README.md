@@ -61,6 +61,7 @@ Keep Learning and Keep Earning .This Is My Motive .
 |  |
 | ------- |
 | [0120-triangle](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0120-triangle) |
+| [0407-trapping-rain-water-ii](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0407-trapping-rain-water-ii) |
 | [0611-valid-triangle-number](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0611-valid-triangle-number) |
 | [0830-largest-triangle-area](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0830-largest-triangle-area) |
 | [1006-vowel-spellchecker](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1006-vowel-spellchecker) |
@@ -102,6 +103,7 @@ Keep Learning and Keep Earning .This Is My Motive .
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0407-trapping-rain-water-ii) |
 | [2023-design-movie-rental-system](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3678-design-task-manager) |
@@ -115,6 +117,7 @@ Keep Learning and Keep Earning .This Is My Motive .
 ## Matrix
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0407-trapping-rain-water-ii) |
 | [3797-design-spreadsheet](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3797-design-spreadsheet) |
 ## Binary Search
 |  |
@@ -168,4 +171,8 @@ Keep Learning and Keep Earning .This Is My Motive .
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/2324-find-triangular-sum-of-an-array) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0407-trapping-rain-water-ii](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0407-trapping-rain-water-ii) |
 <!---LeetCode Topics End-->
