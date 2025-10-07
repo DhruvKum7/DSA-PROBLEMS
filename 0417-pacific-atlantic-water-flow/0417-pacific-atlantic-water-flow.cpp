@@ -1,44 +1,47 @@
 class Solution {
 public:
-    int m, n;
-    vector<vector<int>> directions = {{1,0}, {-1,0}, {0,1}, {0,-1}};
+    vector<vector<int>> directions{{0,1},{1,0},{-1,0},{0,-1}};
+    
+    void dfs(int i, int j, vector<vector<int>>& heights, vector<vector<int>>& visited) {
+        auto check = [&](int l, int m) {
+            return l >= 0 && l < (int)heights.size() && m >= 0 && m < (int)heights[0].size() && !visited[l][m];
+        };
+        visited[i][j] = 1;
+        for (auto &dir : directions) {
+            int u = i + dir[0];
+            int v = j + dir[1];
+            if (check(u, v) && heights[u][v] >= heights[i][j]) {
+                dfs(u, v, heights, visited);
+            }
+        }
+    }
 
     vector<vector<int>> pacificAtlantic(vector<vector<int>>& heights) {
-        m = heights.size();
-        n = heights[0].size();
-
-        vector<vector<bool>> pacific(m, vector<bool>(n, false));
-        vector<vector<bool>> atlantic(m, vector<bool>(n, false));
-
-        for (int j = 0; j < n; j++) dfs(0, j, heights, pacific);
-        for (int i = 0; i < m; i++) dfs(i, 0, heights, pacific);
-
-        for (int j = 0; j < n; j++) dfs(m-1, j, heights, atlantic);
-        for (int i = 0; i < m; i++) dfs(i, n-1, heights, atlantic);
-
+        if (heights.empty() || heights[0].empty()) return {};
+        int n = heights.size();
+        int m = heights[0].size();
+        vector<vector<int>> visited1(n, vector<int>(m, 0));
+        vector<vector<int>> visited2(n, vector<int>(m, 0));
         vector<vector<int>> result;
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                if (pacific[i][j] && atlantic[i][j]) {
+
+        
+        for (int j = 0; j < m; ++j) {
+            dfs(0, j, heights, visited1);
+            dfs(n - 1, j, heights, visited2);
+        }
+        
+        for (int i = 0; i < n; ++i) {
+            dfs(i, 0, heights, visited1);
+            dfs(i, m - 1, heights, visited2);
+        }
+
+        for (int i = 0; i < n; ++i) {
+            for (int j = 0; j < m; ++j) {
+                if (visited1[i][j] && visited2[i][j]) {
                     result.push_back({i, j});
                 }
             }
         }
-
         return result;
-    }
-
-    void dfs(int i, int j, vector<vector<int>>& heights, vector<vector<bool>>& visited) {
-        visited[i][j] = true;
-        
-        for (auto& d : directions) {
-            int x = i + d[0], y = j + d[1];
-            
-            if (x < 0 || x >= m || y < 0 || y >= n) continue;
-            if (visited[x][y]) continue;
-            if (heights[x][y] < heights[i][j]) continue;
-            
-            dfs(x, y, heights, visited);
-        }
     }
 };
