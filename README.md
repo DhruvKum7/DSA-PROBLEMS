@@ -43,6 +43,7 @@ Keep Learning and Keep Earning .This Is My Motive .
 | [1008-binary-tree-cameras](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1008-binary-tree-cameras) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Tree
 |  |
 | ------- |
@@ -93,6 +94,7 @@ Keep Learning and Keep Earning .This Is My Motive .
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3827-implement-router) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Math
 |  |
 | ------- |
@@ -103,6 +105,7 @@ Keep Learning and Keep Earning .This Is My Motive .
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3336-water-bottles-ii](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3336-water-bottles-ii) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Stack
 |  |
 | ------- |
@@ -204,6 +207,7 @@ Keep Learning and Keep Earning .This Is My Motive .
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -219,4 +223,12 @@ Keep Learning and Keep Earning .This Is My Motive .
 | ------- |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+## Bitmask
+|  |
+| ------- |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 <!---LeetCode Topics End-->
