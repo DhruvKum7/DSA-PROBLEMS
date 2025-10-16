@@ -52,6 +52,7 @@ Keep Learning and Keep Earning .This Is My Motive .
 | [0501-find-mode-in-binary-search-tree](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0669-trim-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0975-range-sum-of-bst](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0975-range-sum-of-bst) |
 | [1008-binary-tree-cameras](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1008-binary-tree-cameras) |
 ## Depth-First Search
 |  |
@@ -62,6 +63,7 @@ Keep Learning and Keep Earning .This Is My Motive .
 | [0669-trim-a-binary-search-tree](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0669-trim-a-binary-search-tree) |
 | [0794-swim-in-rising-water](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0794-swim-in-rising-water) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0975-range-sum-of-bst](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0975-range-sum-of-bst) |
 | [1008-binary-tree-cameras](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1008-binary-tree-cameras) |
 ## Binary Tree
 |  |
@@ -71,6 +73,7 @@ Keep Learning and Keep Earning .This Is My Motive .
 | [0501-find-mode-in-binary-search-tree](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0669-trim-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0975-range-sum-of-bst](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0975-range-sum-of-bst) |
 | [1008-binary-tree-cameras](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1008-binary-tree-cameras) |
 ## Array
 |  |
@@ -186,6 +189,7 @@ Keep Learning and Keep Earning .This Is My Motive .
 | [0501-find-mode-in-binary-search-tree](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0669-trim-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0975-range-sum-of-bst](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0975-range-sum-of-bst) |
 ## Greedy
 |  |
 | ------- |
