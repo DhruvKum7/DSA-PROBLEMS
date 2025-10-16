@@ -11,23 +11,21 @@
  */
 class Solution {
 public:
-    vector<int>result;
-        void solve(TreeNode* root){
-        if(root==NULL){
-            return ;
-        }
-        
+    int prevVal = -1;
+    int result = INT_MAX;
+
+    void solve(TreeNode* root){
+        if(!root) return;
         solve(root->left);
-        result.push_back(root->val);
-        solve(root->right);
-        
-    }
-    int minDiffInBST(TreeNode* root) {
-       solve(root);
-       int max = INT_MAX;
-        for(int i=0;i<result.size()-1;i++){
-            max = min(max,(result[i+1]-result[i]));
+        if(prevVal != -1){
+            result = min(result, root->val - prevVal);
         }
-        return max;
+        prevVal = root->val;
+        solve(root->right);
+    }
+
+    int minDiffInBST(TreeNode* root) {
+        solve(root);
+        return result;
     }
 };
