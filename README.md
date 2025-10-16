@@ -51,6 +51,7 @@ Keep Learning and Keep Earning .This Is My Motive .
 | [0337-house-robber-iii](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0337-house-robber-iii) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0669-trim-a-binary-search-tree) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1008-binary-tree-cameras](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1008-binary-tree-cameras) |
 ## Depth-First Search
 |  |
@@ -60,6 +61,7 @@ Keep Learning and Keep Earning .This Is My Motive .
 | [0501-find-mode-in-binary-search-tree](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0669-trim-a-binary-search-tree) |
 | [0794-swim-in-rising-water](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0794-swim-in-rising-water) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1008-binary-tree-cameras](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1008-binary-tree-cameras) |
 ## Binary Tree
 |  |
@@ -68,6 +70,7 @@ Keep Learning and Keep Earning .This Is My Motive .
 | [0337-house-robber-iii](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0337-house-robber-iii) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0669-trim-a-binary-search-tree) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1008-binary-tree-cameras](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1008-binary-tree-cameras) |
 ## Array
 |  |
@@ -182,6 +185,7 @@ Keep Learning and Keep Earning .This Is My Motive .
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0669-trim-a-binary-search-tree) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0799-minimum-distance-between-bst-nodes) |
 ## Greedy
 |  |
 | ------- |
@@ -217,6 +221,7 @@ Keep Learning and Keep Earning .This Is My Motive .
 | [0407-trapping-rain-water-ii](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0794-swim-in-rising-water) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0799-minimum-distance-between-bst-nodes) |
 ## Union Find
 |  |
 | ------- |
