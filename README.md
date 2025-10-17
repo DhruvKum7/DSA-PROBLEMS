@@ -27,6 +27,7 @@ Keep Learning and Keep Earning .This Is My Motive .
 | [1006-vowel-spellchecker](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2429-design-a-food-rating-system](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/2429-design-a-food-rating-system) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3797-design-spreadsheet](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
@@ -43,6 +44,7 @@ Keep Learning and Keep Earning .This Is My Motive .
 | [0337-house-robber-iii](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0337-house-robber-iii) |
 | [1008-binary-tree-cameras](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1008-binary-tree-cameras) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Tree
@@ -242,9 +244,11 @@ Keep Learning and Keep Earning .This Is My Motive .
 ## Bit Manipulation
 |  |
 | ------- |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Bitmask
 |  |
 | ------- |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 <!---LeetCode Topics End-->
