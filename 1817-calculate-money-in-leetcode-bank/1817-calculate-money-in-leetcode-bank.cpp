@@ -1,17 +1,17 @@
 class Solution {
 public:
     int totalMoney(int n) {
-        int sum = 0;
-        int count=1;
-        while(n>0){
-            int total_amount = count;
-            for(int i=0;i<min(7,n);i++){
-                sum+=total_amount;
-                total_amount++;
-            }
-            n-=7;
-            count++;
+        int terms = n/7;
+        int first = 28;
+        int last = 28+(terms-1)*7;
+
+        int result = terms * (first+last)/2;
+
+        int start_system = 1+ terms;
+        for(int i=1;i<=(n%7);i++){
+            result+=start_system;
+            start_system++;
         }
-        return sum;
+        return result;
     }
 };
