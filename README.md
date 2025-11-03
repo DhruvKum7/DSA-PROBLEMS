@@ -60,6 +60,7 @@ Keep Learning and Keep Earning .This Is My Motive .
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0337-house-robber-iii](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0337-house-robber-iii) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -70,6 +71,7 @@ Keep Learning and Keep Earning .This Is My Motive .
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0337-house-robber-iii](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0337-house-robber-iii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0417-pacific-atlantic-water-flow) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -82,6 +84,7 @@ Keep Learning and Keep Earning .This Is My Motive .
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0337-house-robber-iii](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0337-house-robber-iii) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -274,6 +277,7 @@ Keep Learning and Keep Earning .This Is My Motive .
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0794-swim-in-rising-water) |
