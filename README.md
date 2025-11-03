@@ -30,6 +30,7 @@ Keep Learning and Keep Earning .This Is My Motive .
 | [0166-fraction-to-recurring-decimal](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0166-fraction-to-recurring-decimal) |
 | [1006-vowel-spellchecker](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -54,6 +55,7 @@ Keep Learning and Keep Earning .This Is My Motive .
 | [1008-binary-tree-cameras](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1008-binary-tree-cameras) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -107,6 +109,7 @@ Keep Learning and Keep Earning .This Is My Motive .
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1612-avoid-flood-in-the-city](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2023-design-movie-rental-system](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/2023-design-movie-rental-system) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/2169-simple-bank-system) |
@@ -240,6 +243,7 @@ Keep Learning and Keep Earning .This Is My Motive .
 | [1018-largest-perimeter-triangle](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1018-largest-perimeter-triangle) |
 | [1612-avoid-flood-in-the-city](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Sorting
