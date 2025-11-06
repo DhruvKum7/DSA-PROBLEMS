@@ -22,6 +22,7 @@ Keep Learning and Keep Earning .This Is My Motive .
 | [3678-design-task-manager](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3863-power-grid-maintenance) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
@@ -83,6 +84,7 @@ Keep Learning and Keep Earning .This Is My Motive .
 | [0975-range-sum-of-bst](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0975-range-sum-of-bst) |
 | [1008-binary-tree-cameras](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1008-binary-tree-cameras) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [3863-power-grid-maintenance](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3863-power-grid-maintenance) |
 ## Binary Tree
 |  |
 | ------- |
@@ -135,6 +137,7 @@ Keep Learning and Keep Earning .This Is My Motive .
 | [3797-design-spreadsheet](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3827-implement-router) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3863-power-grid-maintenance](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3863-power-grid-maintenance) |
 ## Math
 |  |
 | ------- |
@@ -180,6 +183,7 @@ Keep Learning and Keep Earning .This Is My Motive .
 | [2023-design-movie-rental-system](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3678-design-task-manager) |
+| [3863-power-grid-maintenance](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3863-power-grid-maintenance) |
 ## Ordered Set
 |  |
 | ------- |
@@ -187,6 +191,7 @@ Keep Learning and Keep Earning .This Is My Motive .
 | [2429-design-a-food-rating-system](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3678-design-task-manager) |
 | [3827-implement-router](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3863-power-grid-maintenance) |
 ## Matrix
 |  |
 | ------- |
@@ -287,10 +292,12 @@ Keep Learning and Keep Earning .This Is My Motive .
 | [0794-swim-in-rising-water](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0794-swim-in-rising-water) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [3863-power-grid-maintenance](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3863-power-grid-maintenance) |
 ## Union Find
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0794-swim-in-rising-water) |
+| [3863-power-grid-maintenance](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3863-power-grid-maintenance) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -327,4 +334,8 @@ Keep Learning and Keep Earning .This Is My Motive .
 |  |
 | ------- |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+## Graph
+|  |
+| ------- |
+| [3863-power-grid-maintenance](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3863-power-grid-maintenance) |
 <!---LeetCode Topics End-->
