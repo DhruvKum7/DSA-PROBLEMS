@@ -29,6 +29,7 @@ Keep Learning and Keep Earning .This Is My Motive .
 | ------- |
 | [0165-compare-version-numbers](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0166-fraction-to-recurring-decimal) |
+| [0474-ones-and-zeroes](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0474-ones-and-zeroes) |
 | [1006-vowel-spellchecker](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -53,6 +54,7 @@ Keep Learning and Keep Earning .This Is My Motive .
 | [0120-triangle](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0120-triangle) |
 | [0213-house-robber-ii](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0213-house-robber-ii) |
 | [0337-house-robber-iii](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0337-house-robber-iii) |
+| [0474-ones-and-zeroes](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0474-ones-and-zeroes) |
 | [1008-binary-tree-cameras](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1008-binary-tree-cameras) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -104,6 +106,7 @@ Keep Learning and Keep Earning .This Is My Motive .
 | [0213-house-robber-ii](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0213-house-robber-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0417-pacific-atlantic-water-flow) |
+| [0474-ones-and-zeroes](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0474-ones-and-zeroes) |
 | [0611-valid-triangle-number](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0611-valid-triangle-number) |
 | [0794-swim-in-rising-water](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0830-largest-triangle-area) |
