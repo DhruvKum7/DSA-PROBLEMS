@@ -4,25 +4,26 @@ public:
         int n = nums.size();
         if(n == 0) return 0;   // FIX: handle empty input
 
-        sort(nums.begin(), nums.end());
+        unordered_set<int> st;
+        for(auto &i : nums){
+            st.insert(i);
+        }
 
         int longest = 1;
-        int cnt = 1;
-        int last_no = nums[0];
 
-        for(int i = 1; i < n; i++) {
+        for(auto &i : st){
 
-            if(nums[i] == last_no) 
-                continue;     // FIX: skip duplicates
+            // FIX: only start counting if it's the start of a sequence
+            if(st.find(i - 1) != st.end()) continue;
 
-            if(nums[i] - 1 == last_no) {
+            int x = i;
+            int cnt = 1;   // FIX: start from 1
+
+            while(st.find(x + 1) != st.end()){
+                x = x + 1;
                 cnt++;
-            } 
-            else {
-                cnt = 1;
             }
 
-            last_no = nums[i];
             longest = max(longest, cnt);
         }
 
