@@ -6,6 +6,7 @@ Keep Learning and Keep Earning .This Is My Motive .
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0128-longest-consecutive-sequence) |
 | [0166-fraction-to-recurring-decimal](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0166-fraction-to-recurring-decimal) |
 | [1006-vowel-spellchecker](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -105,6 +106,7 @@ Keep Learning and Keep Earning .This Is My Motive .
 |  |
 | ------- |
 | [0120-triangle](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0120-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0128-longest-consecutive-sequence) |
 | [0213-house-robber-ii](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0213-house-robber-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0417-pacific-atlantic-water-flow) |
@@ -311,6 +313,7 @@ Keep Learning and Keep Earning .This Is My Motive .
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0128-longest-consecutive-sequence) |
 | [0794-swim-in-rising-water](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0794-swim-in-rising-water) |
 | [3863-power-grid-maintenance](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3863-power-grid-maintenance) |
 ## Prefix Sum
