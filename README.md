@@ -130,6 +130,7 @@ Keep Learning and Keep Earning .This Is My Motive .
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2429-design-a-food-rating-system](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/2429-design-a-food-rating-system) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/2618-maximize-the-minimum-powered-city) |
+| [2625-increment-submatrices-by-one](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/2625-increment-submatrices-by-one) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -213,6 +214,7 @@ Keep Learning and Keep Earning .This Is My Motive .
 | [0794-swim-in-rising-water](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0794-swim-in-rising-water) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2625-increment-submatrices-by-one](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/2625-increment-submatrices-by-one) |
 | [3797-design-spreadsheet](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3797-design-spreadsheet) |
 ## Binary Search
 |  |
@@ -320,6 +322,7 @@ Keep Learning and Keep Earning .This Is My Motive .
 |  |
 | ------- |
 | [2618-maximize-the-minimum-powered-city](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/2618-maximize-the-minimum-powered-city) |
+| [2625-increment-submatrices-by-one](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/2625-increment-submatrices-by-one) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
