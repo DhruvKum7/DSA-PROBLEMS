@@ -34,6 +34,7 @@ Keep Learning and Keep Earning .This Is My Motive .
 | [1006-vowel-spellchecker](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1006-vowel-spellchecker) |
 | [1250-longest-common-subsequence](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -158,6 +159,7 @@ Keep Learning and Keep Earning .This Is My Motive .
 | [0166-fraction-to-recurring-decimal](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0166-fraction-to-recurring-decimal) |
 | [0830-largest-triangle-area](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1018-largest-perimeter-triangle) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/2174-next-greater-numerically-balanced-number) |
