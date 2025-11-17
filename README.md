@@ -121,6 +121,7 @@ Keep Learning and Keep Earning .This Is My Motive .
 | [1006-vowel-spellchecker](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1018-largest-perimeter-triangle) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1612-avoid-flood-in-the-city](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1700-minimum-time-to-make-rope-colorful) |
