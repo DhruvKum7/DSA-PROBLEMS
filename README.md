@@ -111,6 +111,7 @@ Keep Learning and Keep Earning .This Is My Motive .
 | [0120-triangle](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0128-longest-consecutive-sequence) |
 | [0213-house-robber-ii](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0213-house-robber-ii) |
+| [0307-range-sum-query-mutable](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0307-range-sum-query-mutable) |
 | [0407-trapping-rain-water-ii](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0417-pacific-atlantic-water-flow) |
 | [0474-ones-and-zeroes](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0474-ones-and-zeroes) |
@@ -188,6 +189,7 @@ Keep Learning and Keep Earning .This Is My Motive .
 ## Design
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0307-range-sum-query-mutable) |
 | [2023-design-movie-rental-system](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/2023-design-movie-rental-system) |
 | [2169-simple-bank-system](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/2169-simple-bank-system) |
 | [2429-design-a-food-rating-system](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/2429-design-a-food-rating-system) |
@@ -257,6 +259,7 @@ Keep Learning and Keep Earning .This Is My Motive .
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0307-range-sum-query-mutable](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0307-range-sum-query-mutable) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -376,4 +379,12 @@ Keep Learning and Keep Earning .This Is My Motive .
 |  |
 | ------- |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0307-range-sum-query-mutable) |
+## Segment Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
