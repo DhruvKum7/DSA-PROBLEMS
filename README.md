@@ -140,6 +140,7 @@ Keep Learning and Keep Earning .This Is My Motive .
 | [2625-increment-submatrices-by-one](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/2625-increment-submatrices-by-one) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -181,6 +182,7 @@ Keep Learning and Keep Earning .This Is My Motive .
 | ------- |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Number Theory
 |  |
 | ------- |
@@ -205,6 +207,7 @@ Keep Learning and Keep Earning .This Is My Motive .
 | [1612-avoid-flood-in-the-city](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1612-avoid-flood-in-the-city) |
 | [2023-design-movie-rental-system](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/2429-design-a-food-rating-system) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3678-design-task-manager](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3678-design-task-manager) |
 | [3863-power-grid-maintenance](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3863-power-grid-maintenance) |
 ## Ordered Set
@@ -234,6 +237,7 @@ Keep Learning and Keep Earning .This Is My Motive .
 | [1612-avoid-flood-in-the-city](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1612-avoid-flood-in-the-city) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -372,6 +376,7 @@ Keep Learning and Keep Earning .This Is My Motive .
 |  |
 | ------- |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Graph
 |  |
 | ------- |
@@ -384,8 +389,10 @@ Keep Learning and Keep Earning .This Is My Motive .
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0307-range-sum-query-mutable) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Segment Tree
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0307-range-sum-query-mutable) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 <!---LeetCode Topics End-->
