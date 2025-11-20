@@ -93,6 +93,7 @@ Keep Learning and Keep Earning .This Is My Motive .
 | [0799-minimum-distance-between-bst-nodes](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0975-range-sum-of-bst](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0975-range-sum-of-bst) |
 | [1008-binary-tree-cameras](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1008-binary-tree-cameras) |
+| [1300-critical-connections-in-a-network](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1300-critical-connections-in-a-network) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [3863-power-grid-maintenance](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3863-power-grid-maintenance) |
 ## Binary Tree
@@ -384,6 +385,7 @@ Keep Learning and Keep Earning .This Is My Motive .
 ## Graph
 |  |
 | ------- |
+| [1300-critical-connections-in-a-network](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1300-critical-connections-in-a-network) |
 | [3863-power-grid-maintenance](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3863-power-grid-maintenance) |
 ## Memoization
 |  |
@@ -399,4 +401,8 @@ Keep Learning and Keep Earning .This Is My Motive .
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0307-range-sum-query-mutable) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+## Biconnected Component
+|  |
+| ------- |
+| [1300-critical-connections-in-a-network](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1300-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
