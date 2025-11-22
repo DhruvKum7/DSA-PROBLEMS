@@ -148,6 +148,7 @@ Keep Learning and Keep Earning .This Is My Motive .
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -180,6 +181,7 @@ Keep Learning and Keep Earning .This Is My Motive .
 | [2324-find-triangular-sum-of-an-array](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3336-water-bottles-ii](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3336-water-bottles-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
