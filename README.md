@@ -100,6 +100,7 @@ Keep Learning and Keep Earning .This Is My Motive .
 | [1192-critical-connections-in-a-network](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1192-critical-connections-in-a-network) |
 | [1300-critical-connections-in-a-network](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1300-critical-connections-in-a-network) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3863-power-grid-maintenance](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3863-power-grid-maintenance) |
 ## Binary Tree
 |  |
@@ -339,12 +340,14 @@ Keep Learning and Keep Earning .This Is My Motive .
 | [0794-swim-in-rising-water](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0794-swim-in-rising-water) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3863-power-grid-maintenance](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3863-power-grid-maintenance) |
 ## Union Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0128-longest-consecutive-sequence) |
 | [0794-swim-in-rising-water](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0794-swim-in-rising-water) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3863-power-grid-maintenance](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3863-power-grid-maintenance) |
 ## Prefix Sum
 |  |
@@ -398,6 +401,7 @@ Keep Learning and Keep Earning .This Is My Motive .
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1192-critical-connections-in-a-network) |
 | [1300-critical-connections-in-a-network](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1300-critical-connections-in-a-network) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3863-power-grid-maintenance](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3863-power-grid-maintenance) |
 ## Memoization
 |  |
