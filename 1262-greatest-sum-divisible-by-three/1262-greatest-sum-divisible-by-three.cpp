@@ -1,25 +1,20 @@
 class Solution {
 public:
-    
-    int solve(int i,int remainder , vector<int>& nums,vector<vector<int>>&dp){
-        if(i==nums.size()){
-            if(remainder==0){
-                return 0;
-            }else{
-                return INT_MIN;
-            }
-        }
-        if(dp[i][remainder]!=-1){
-            return dp[i][remainder];
-        }
-        int take = nums[i]+solve(i+1,(remainder+nums[i])%3,nums,dp);
-        int skip = solve(i+1,remainder,nums,dp);
-
-        return dp[i][remainder]=max(take,skip);
-    }
     int maxSumDivThree(vector<int>& nums) {
         int n = nums.size();
-        vector<vector<int>>dp(n+1,vector<int>(3,-1));
-        return solve(0,0,nums,dp);
+        vector<vector<int>>dp(n+1,vector<int>(3,INT_MIN));
+        dp[n][0]=0;
+        dp[n][1]=INT_MIN;
+        dp[n][2]=INT_MIN;
+        for(int i=n-1;i>=0;i--){
+            for(int j=0;j<3;j++){
+                int newrem = (j+nums[i])%3;
+                int take = nums[i]+dp[i+1][newrem];
+                int skip = dp[i+1][j];
+
+                dp[i][j]=max(take,skip);
+            }
+        }
+        return dp[0][0];
     }
 };
