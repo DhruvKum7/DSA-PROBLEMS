@@ -132,6 +132,7 @@ Keep Learning and Keep Earning .This Is My Motive .
 | [0830-largest-triangle-area](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0830-largest-triangle-area) |
 | [1006-vowel-spellchecker](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1018-largest-perimeter-triangle) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1254-number-of-closed-islands](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1254-number-of-closed-islands) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -373,6 +374,7 @@ Keep Learning and Keep Earning .This Is My Motive .
 ## Bit Manipulation
 |  |
 | ------- |
+| [1018-binary-prefix-divisible-by-5](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/2059-unique-length-3-palindromic-subsequences) |
