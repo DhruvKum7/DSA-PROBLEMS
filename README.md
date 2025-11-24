@@ -99,6 +99,7 @@ Keep Learning and Keep Earning .This Is My Motive .
 | [0975-range-sum-of-bst](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0975-range-sum-of-bst) |
 | [1008-binary-tree-cameras](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1008-binary-tree-cameras) |
 | [1192-critical-connections-in-a-network](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1192-critical-connections-in-a-network) |
+| [1254-number-of-closed-islands](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1254-number-of-closed-islands) |
 | [1300-critical-connections-in-a-network](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1300-critical-connections-in-a-network) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -132,6 +133,7 @@ Keep Learning and Keep Earning .This Is My Motive .
 | [1006-vowel-spellchecker](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1018-largest-perimeter-triangle) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1254-number-of-closed-islands](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1254-number-of-closed-islands) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1612-avoid-flood-in-the-city](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1612-avoid-flood-in-the-city) |
@@ -238,6 +240,7 @@ Keep Learning and Keep Earning .This Is My Motive .
 | [0417-pacific-atlantic-water-flow](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0417-pacific-atlantic-water-flow) |
 | [0733-flood-fill](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0794-swim-in-rising-water) |
+| [1254-number-of-closed-islands](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1254-number-of-closed-islands) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2625-increment-submatrices-by-one](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/2625-increment-submatrices-by-one) |
@@ -343,6 +346,7 @@ Keep Learning and Keep Earning .This Is My Motive .
 | [0733-flood-fill](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0794-swim-in-rising-water) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [1254-number-of-closed-islands](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1254-number-of-closed-islands) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3863-power-grid-maintenance](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3863-power-grid-maintenance) |
@@ -351,6 +355,7 @@ Keep Learning and Keep Earning .This Is My Motive .
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0128-longest-consecutive-sequence) |
 | [0794-swim-in-rising-water](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0794-swim-in-rising-water) |
+| [1254-number-of-closed-islands](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1254-number-of-closed-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3863-power-grid-maintenance](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3863-power-grid-maintenance) |
 ## Prefix Sum
