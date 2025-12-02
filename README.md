@@ -26,6 +26,7 @@ Keep Learning and Keep Earning .This Is My Motive .
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3623-count-number-of-trapezoids-i](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3623-count-number-of-trapezoids-i) |
 | [3678-design-task-manager](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3827-implement-router) |
@@ -174,6 +175,7 @@ Keep Learning and Keep Earning .This Is My Motive .
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3623-count-number-of-trapezoids-i](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3623-count-number-of-trapezoids-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3797-design-spreadsheet) |
@@ -201,6 +203,7 @@ Keep Learning and Keep Earning .This Is My Motive .
 | [3336-water-bottles-ii](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3336-water-bottles-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3623-count-number-of-trapezoids-i](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3623-count-number-of-trapezoids-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Stack
@@ -329,6 +332,7 @@ Keep Learning and Keep Earning .This Is My Motive .
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0830-largest-triangle-area) |
+| [3623-count-number-of-trapezoids-i](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3623-count-number-of-trapezoids-i) |
 ## Simulation
 |  |
 | ------- |
