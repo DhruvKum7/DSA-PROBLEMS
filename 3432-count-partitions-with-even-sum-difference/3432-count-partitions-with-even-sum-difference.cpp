@@ -8,9 +8,9 @@ public:
         vector<int>vec(nums.size());
         int result = 0;
         vec[0]=nums[0];
-        if(nums.size()==0){
-            return 0;
-        }
+        // if(nums.size()==0){
+        //     return 0;
+        // }
         for(int i=1;i<nums.size();i++){
             vec[i]=vec[i-1]+nums[i];
             int left = total-vec[i];
