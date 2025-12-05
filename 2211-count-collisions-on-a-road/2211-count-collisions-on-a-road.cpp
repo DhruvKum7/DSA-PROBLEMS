@@ -1,28 +1,21 @@
 class Solution {
 public:
-    int countCollisions(string D) {
-        int n=D.size();
-        if (n==1) return 0;
-        int l=0, r=n-1;
-        while (D[l]=='L') l++;
-        while (l<r && D[r]=='R') r--;
-        if (l>=r) return 0;
-        int col=0;
-    
-        for( ; l<=r; l++){
-            while(D[l]=='R'){
-                l++;
-                col++;
-            }
-            if (D[l]=='L') col++;
+    int countCollisions(string directions) {
+        int n = directions.length();
+        int i = 0;
+        while (i < n && directions[i] == 'L') {
+            i++;
         }
-        return col;      
+        int j = n - 1;
+        while (j >= 0 && directions[j] == 'R') {
+            j--;
+        }
+        int count = 0;
+        for (int k = i; k <= j; k++) {
+            if (directions[k] == 'L' || directions[k] == 'R') {
+                count++;
+            }
+        }
+        return count;
     }
 };
-auto init = []()
-{ 
-    ios::sync_with_stdio(0);
-    cin.tie(0);
-    cout.tie(0);
-    return 'c';
-}();
