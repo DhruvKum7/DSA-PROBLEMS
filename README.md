@@ -193,6 +193,7 @@ Keep Learning and Keep Earning .This Is My Motive .
 | [0830-largest-triangle-area](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0830-largest-triangle-area) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1018-largest-perimeter-triangle) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1817-calculate-money-in-leetcode-bank) |
