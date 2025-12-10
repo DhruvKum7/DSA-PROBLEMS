@@ -174,6 +174,7 @@ Keep Learning and Keep Earning .This Is My Motive .
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3583-count-special-triplets) |
@@ -212,6 +213,7 @@ Keep Learning and Keep Earning .This Is My Motive .
 | [3336-water-bottles-ii](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3336-water-bottles-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3623-count-number-of-trapezoids-i](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3623-count-number-of-trapezoids-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -364,6 +366,7 @@ Keep Learning and Keep Earning .This Is My Motive .
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Breadth-First Search
@@ -471,4 +474,8 @@ Keep Learning and Keep Earning .This Is My Motive .
 |  |
 | ------- |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+## Brainteaser
+|  |
+| ------- |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 <!---LeetCode Topics End-->
