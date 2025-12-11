@@ -1,41 +1,35 @@
 class Solution {
 public:
     int countCoveredBuildings(int n, vector<vector<int>>& buildings) {
-        unordered_map<int, vector<int>> row, col;
+        unordered_map<int,vector<int>>rows,cols;
+        for(auto &i : buildings){
+            int u = i[0];
+            int v = i[1];
 
-        // Group by row (x) and column (y)
-        for (auto &b : buildings) {
-            int x = b[0], y = b[1];
-            row[x].push_back(y);
-            col[y].push_back(x);
+            rows[u].push_back(v);
+            cols[v].push_back(u);
+
         }
-
-        // Sort coordinates in each row
-        for (auto &it : row) {
-            auto &v = it.second;
-            sort(v.begin(), v.end());
+        for(auto &i : cols){
+            auto &v = i.second;
+            sort(v.begin(),v.end());
         }
-
-        // Sort coordinates in each column
-        for (auto &it : col) {
-            auto &v = it.second;
-            sort(v.begin(), v.end());
+        for(auto &i : rows){
+            auto &v = i.second;
+            sort(v.begin(),v.end());
         }
+        long long count = 0;
+        for(auto &i : buildings){
+            int x = i[0];
+            int y = i[1];
 
-        int count = 0;
+            auto &xx = rows[x];
+            auto &xy = cols[y];
 
-        // Check coverage for each building
-        for (auto &b : buildings) {
-            int x = b[0], y = b[1];
-            auto &ys = row[x]; // all y in this row
-            auto &xs = col[y]; // all x in this column
-
-            if (xs.front() < x && x < xs.back() &&
-                ys.front() < y && y < ys.back()) {
+            if(xy.front()<x && xy.back()>x && xx.front()<y && xx.back()>y){
                 count++;
             }
         }
-
         return count;
     }
 };
