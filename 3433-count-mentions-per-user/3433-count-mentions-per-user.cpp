@@ -36,7 +36,7 @@ public:
         vector<int>mentionCount(numberOfUsers);
         vector<int>offlineTime(numberOfUsers);
 
-        auto lambda=[](vector<string>& vec1, vector<string>& vec2) {
+        auto lambda=[&](vector<string>& vec1, vector<string>& vec2) {
             int t1 = stoi(vec1[1]);
             int t2 = stoi(vec2[1]);
 
