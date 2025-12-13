@@ -28,6 +28,7 @@ Keep Learning and Keep Earning .This Is My Motive .
 | [3531-count-covered-buildings](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3531-count-covered-buildings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3583-count-special-triplets) |
+| [3606-coupon-code-validator](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3606-coupon-code-validator) |
 | [3623-count-number-of-trapezoids-i](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3623-count-number-of-trapezoids-i) |
 | [3678-design-task-manager](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3797-design-spreadsheet) |
@@ -54,6 +55,7 @@ Keep Learning and Keep Earning .This Is My Motive .
 | [2429-design-a-food-rating-system](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/2429-design-a-food-rating-system) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+| [3606-coupon-code-validator](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3606-coupon-code-validator) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3797-design-spreadsheet](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -181,6 +183,7 @@ Keep Learning and Keep Earning .This Is My Motive .
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3583-count-special-triplets) |
+| [3606-coupon-code-validator](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3606-coupon-code-validator) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -345,6 +348,7 @@ Keep Learning and Keep Earning .This Is My Motive .
 | [3433-count-mentions-per-user](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3531-count-covered-buildings](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3531-count-covered-buildings) |
+| [3606-coupon-code-validator](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3606-coupon-code-validator) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
