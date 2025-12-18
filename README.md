@@ -197,6 +197,7 @@ Keep Learning and Keep Earning .This Is My Motive .
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3623-count-number-of-trapezoids-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3827-implement-router) |
@@ -424,6 +425,7 @@ Keep Learning and Keep Earning .This Is My Motive .
 | [3616-make-array-elements-equal-to-zero](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Bit Manipulation
 |  |
@@ -454,6 +456,7 @@ Keep Learning and Keep Earning .This Is My Motive .
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Backtracking
 |  |
 | ------- |
