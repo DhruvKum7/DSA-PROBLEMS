@@ -87,6 +87,7 @@ Keep Learning and Keep Earning .This Is My Motive .
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3573-best-time-to-buy-and-sell-stock-v](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Tree
@@ -183,6 +184,7 @@ Keep Learning and Keep Earning .This Is My Motive .
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3531-count-covered-buildings) |
+| [3573-best-time-to-buy-and-sell-stock-v](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
