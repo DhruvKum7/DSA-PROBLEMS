@@ -118,6 +118,7 @@ Keep Learning and Keep Earning .This Is My Motive .
 | [1254-number-of-closed-islands](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1254-number-of-closed-islands) |
 | [1300-critical-connections-in-a-network](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1300-critical-connections-in-a-network) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2092-find-all-people-with-secret](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/2092-find-all-people-with-secret) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3863-power-grid-maintenance](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3863-power-grid-maintenance) |
 ## Binary Tree
@@ -352,6 +353,7 @@ Keep Learning and Keep Earning .This Is My Motive .
 | [0611-valid-triangle-number](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1018-largest-perimeter-triangle) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1262-greatest-sum-divisible-by-three) |
+| [2092-find-all-people-with-secret](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/2092-find-all-people-with-secret) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3433-count-mentions-per-user](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3433-count-mentions-per-user) |
@@ -400,6 +402,7 @@ Keep Learning and Keep Earning .This Is My Motive .
 | [0799-minimum-distance-between-bst-nodes](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1254-number-of-closed-islands](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1254-number-of-closed-islands) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2092-find-all-people-with-secret](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/2092-find-all-people-with-secret) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3863-power-grid-maintenance](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3863-power-grid-maintenance) |
 ## Union Find
@@ -408,6 +411,7 @@ Keep Learning and Keep Earning .This Is My Motive .
 | [0128-longest-consecutive-sequence](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0128-longest-consecutive-sequence) |
 | [0794-swim-in-rising-water](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0794-swim-in-rising-water) |
 | [1254-number-of-closed-islands](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1254-number-of-closed-islands) |
+| [2092-find-all-people-with-secret](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/2092-find-all-people-with-secret) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3863-power-grid-maintenance](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3863-power-grid-maintenance) |
 ## Prefix Sum
@@ -471,6 +475,7 @@ Keep Learning and Keep Earning .This Is My Motive .
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1192-critical-connections-in-a-network) |
 | [1300-critical-connections-in-a-network](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1300-critical-connections-in-a-network) |
+| [2092-find-all-people-with-secret](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/2092-find-all-people-with-secret) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3863-power-grid-maintenance](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3863-power-grid-maintenance) |
 ## Memoization
