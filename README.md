@@ -42,6 +42,7 @@ Keep Learning and Keep Earning .This Is My Motive .
 | [0166-fraction-to-recurring-decimal](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0166-fraction-to-recurring-decimal) |
 | [0474-ones-and-zeroes](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0474-ones-and-zeroes) |
 | [0944-delete-columns-to-make-sorted](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0944-delete-columns-to-make-sorted) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1006-vowel-spellchecker](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1006-vowel-spellchecker) |
 | [1250-longest-common-subsequence](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -150,6 +151,7 @@ Keep Learning and Keep Earning .This Is My Motive .
 | [0794-swim-in-rising-water](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0830-largest-triangle-area) |
 | [0944-delete-columns-to-make-sorted](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0944-delete-columns-to-make-sorted) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1006-vowel-spellchecker](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -343,6 +345,7 @@ Keep Learning and Keep Earning .This Is My Motive .
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0611-valid-triangle-number) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1018-largest-perimeter-triangle) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1612-avoid-flood-in-the-city](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1612-avoid-flood-in-the-city) |
