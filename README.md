@@ -139,6 +139,7 @@ Keep Learning and Keep Earning .This Is My Motive .
 | [0120-triangle](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0128-longest-consecutive-sequence) |
 | [0213-house-robber-ii](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0213-house-robber-ii) |
+| [0283-move-zeroes](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0283-move-zeroes) |
 | [0307-range-sum-query-mutable](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0307-range-sum-query-mutable) |
 | [0407-trapping-rain-water-ii](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0417-pacific-atlantic-water-flow) |
@@ -316,6 +317,7 @@ Keep Learning and Keep Earning .This Is My Motive .
 |  |
 | ------- |
 | [0165-compare-version-numbers](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0165-compare-version-numbers) |
+| [0283-move-zeroes](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0283-move-zeroes) |
 | [0611-valid-triangle-number](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0611-valid-triangle-number) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/3437-maximum-total-damage-with-spell-casting) |
