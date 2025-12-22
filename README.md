@@ -43,6 +43,7 @@ Keep Learning and Keep Earning .This Is My Motive .
 | [0474-ones-and-zeroes](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0474-ones-and-zeroes) |
 | [0944-delete-columns-to-make-sorted](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1006-vowel-spellchecker](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1006-vowel-spellchecker) |
 | [1250-longest-common-subsequence](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -77,6 +78,7 @@ Keep Learning and Keep Earning .This Is My Motive .
 | [0213-house-robber-ii](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0213-house-robber-ii) |
 | [0337-house-robber-iii](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0337-house-robber-iii) |
 | [0474-ones-and-zeroes](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0474-ones-and-zeroes) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1008-binary-tree-cameras](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1008-binary-tree-cameras) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1250-longest-common-subsequence](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1250-longest-common-subsequence) |
@@ -152,6 +154,7 @@ Keep Learning and Keep Earning .This Is My Motive .
 | [0830-largest-triangle-area](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0830-largest-triangle-area) |
 | [0944-delete-columns-to-make-sorted](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1006-vowel-spellchecker](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/DhruvKum7/DSA-PROBLEMS/tree/master/1018-binary-prefix-divisible-by-5) |
